@@ -1,8 +1,10 @@
 ![Branch](https://img.shields.io/badge/branch-standart-orange "Selected Branch")
-
 ![Release](https://img.shields.io/github/v/release/MaximKolpak/steam-auth "Currect Version")
 
+<<<<<<< HEAD
 ![Release](https://img.shields.io/github/repo-size/MaximKolpak/steam-auth "Currect Version")
+=======
+>>>>>>> ab81ba0221d2f593c19c638e2088bc9669c5a8b6
 
 Library for **Xamarin** workbench under Net **Standard** 2.1 (IOS, Andriod) and also works under Net **Framework**, Net **Core**
 
