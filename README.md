@@ -1,3 +1,5 @@
+![Branch](https://img.shields.io/badge/branch-standart-orange "Selected Branch")
+
 Library for **Xamarin** workbench under Net **Standard** 2.1 (IOS, Andriod) and also works under Net **Framework**, Net **Core**
 
 # Functionality
