@@ -3,7 +3,10 @@
 ![Release](https://img.shields.io/github/repo-size/MaximKolpak/steam-auth "Currect Version")
 
 
-Library for **Xamarin** workbench under Net **Standard** 2.1 (IOS, Andriod) and also works under Net **Framework**, Net **Core**
+Library for:
+  - [NET Standart](https://github.com/MaximKolpak/steam-auth)
+  - [NET Core](https://github.com/MaximKolpak/steam-auth/tree/core)
+  - NET Framework
 
 # Functionality
 Currently, this library can [WIKI](https://github.com/MaximKolpak/steam-auth/wiki):
