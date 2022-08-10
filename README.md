@@ -1,10 +1,7 @@
 Library for **Xamarin** workbench under Net **Standard** 2.1 (IOS, Andriod) and also works under Net **Framework**, Net **Core**
 
-# SteamAuth
-A C# library that provides vital Steam Mobile Authenticator functionality. **Looking for a desktop client to act as a Steam Mobile Authenticator? [Check out SteamDesktopAuthenticator](https://github.com/Jessecar96/SteamDesktopAuthenticator)**
-
 # Functionality
-Currently, this library can:
+Currently, this library can [WIKI](https://github.com/MaximKolpak/steam-auth/wiki):
 
 * Generate login codes for a given Shared Secret
 * Login to a user account
