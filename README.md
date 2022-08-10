@@ -2,6 +2,7 @@
 ![Release](https://img.shields.io/github/v/release/MaximKolpak/steam-auth "Currect Version")
 ![Release](https://img.shields.io/github/repo-size/MaximKolpak/steam-auth "Currect Version")
 
+The library allows you to connect Steam Guard to your account, with the ability to have Steam Guard on multiple devices at the same time.
 
 Library for:
   - [NET Standart](https://github.com/MaximKolpak/steam-auth)
