@@ -1,4 +1,13 @@
-Library for **Xamarin** workbench under Net **Standard** 2.1 (IOS, Andriod) and also works under Net **Framework**, Net **Core**
+![Branch](https://img.shields.io/badge/branch-core-orange "Selected Branch")
+![Release](https://img.shields.io/github/v/release/MaximKolpak/steam-auth "Currect Version")
+![Release](https://img.shields.io/github/repo-size/MaximKolpak/steam-auth "Currect Version")
+
+The library allows you to connect Steam Guard to your account, with the ability to have Steam Guard on multiple devices at the same time.
+
+Library for:
+  - [NET Standart](https://github.com/MaximKolpak/steam-auth)
+  - [NET Core](https://github.com/MaximKolpak/steam-auth/tree/core)
+  - NET Framework
 
 # Functionality
 Currently, this library can [WIKI](https://github.com/MaximKolpak/steam-auth/wiki):
@@ -20,4 +29,4 @@ To add a mobile authenticator to a user, instantiate a `UserLogin` instance whic
 
 To fetch mobile confirmations, call `SteamGuardAccount.FetchConfirmations()`. You can then call `SteamGuardAccount.AcceptConfirmation` and `SteamGuardAccount.DenyConfirmation`.
 
-this is core
+More information in My [**WIKI**](https://github.com/MaximKolpak/steam-auth/wiki)
